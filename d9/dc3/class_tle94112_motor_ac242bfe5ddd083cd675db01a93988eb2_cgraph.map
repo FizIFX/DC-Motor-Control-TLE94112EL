@@ -1,0 +1,4 @@
+<map id="Tle94112Motor::rampSpeed" name="Tle94112Motor::rampSpeed">
+<area shape="rect" id="node1" title="function to gradually change the motors speed" alt="" coords="5,5,187,32"/>
+<area shape="rect" id="node2" href="$d9/dc3/class_tle94112_motor.html#a6f1396de3639cef620537d6cfd8e27a2" title="Returns the motor&#39;s current speed setting." alt="" coords="235,5,405,32"/>
+</map>

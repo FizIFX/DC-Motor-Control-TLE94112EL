@@ -1,0 +1,6 @@
+<map id="Tle94112Motor::begin" name="Tle94112Motor::begin">
+<area shape="rect" id="node1" title="finishes configuration and enables motor controls" alt="" coords="5,31,152,57"/>
+<area shape="rect" id="node2" href="$d9/dc3/class_tle94112_motor.html#aca0d0d54d133002e724e4100c2cd3af8" title="releases the motor without driving or active breaking" alt="" coords="200,31,347,57"/>
+<area shape="rect" id="node3" href="$d7/deb/class_tle94112.html#aba359ba70b241189e8f94a2285a55b0a" title="sets the output state and the PWM channel for a halfbridge (only for passive freewheeling)" alt="" coords="400,5,535,32"/>
+<area shape="rect" id="node4" href="$d7/deb/class_tle94112.html#a788102cec501e8d2532798c2107d0626" title="clears all clearable error flags" alt="" coords="395,56,540,83"/>
+</map>

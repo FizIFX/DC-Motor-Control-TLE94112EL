@@ -1,0 +1,7 @@
+<map id="Tle94112Motor::setSpeed" name="Tle94112Motor::setSpeed">
+<area shape="rect" id="node1" title="equivalent to start()" alt="" coords="5,56,176,83"/>
+<area shape="rect" id="node2" href="$d9/dc3/class_tle94112_motor.html#aca0d0d54d133002e724e4100c2cd3af8" title="releases the motor without driving or active breaking" alt="" coords="225,56,372,83"/>
+<area shape="rect" id="node3" href="$d7/deb/class_tle94112.html#aba359ba70b241189e8f94a2285a55b0a" title="sets the output state and the PWM channel for a halfbridge (only for passive freewheeling)" alt="" coords="427,5,561,32"/>
+<area shape="rect" id="node5" href="$d7/deb/class_tle94112.html#aec21a2a1434b0de208d33387c387043f" title="sets the frequency and duty cycle for a PWM channel" alt="" coords="224,107,373,133"/>
+<area shape="rect" id="node4" href="$d7/deb/class_tle94112.html#a788102cec501e8d2532798c2107d0626" title="clears all clearable error flags" alt="" coords="421,56,567,83"/>
+</map>
